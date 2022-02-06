@@ -25,6 +25,6 @@ This proposal suggests that we use the HUD nationwide PIT and HIC datasets for m
 2020 HIC dataframe:
 ![image](https://user-images.githubusercontent.com/90977689/152704941-6cf31b50-3949-420b-b676-72d0bfd4bd76.png)
 
-I am not aware of anyone to date using machine learning models on homelessness datasets.  The hypothesis for this project is that we will be able to find correlations between certain factors across these broad nation-wide data sets with outcomes.  These findings would then be the first step in helping to guide additional dialog and potentially new investments in our city.  For an excellent video on some of the issues associated with homelessness, please watch the video at this link:  https://youtu.be/VMjTKbUTaMs
+I am not aware of anyone to date using machine learning models on homelessness datasets.  The hypothesis for this project is that we will be able to find correlations between certain factors across these broad nation-wide data sets with outcomes.  These findings would then be the first step in helping to guide additional dialog and potentially new investments in our city.  The Mayor's office will be very interested to review any findings we have.  * Let's use our newly acquired skills to make a difference in the lives of our homeless neighbors!  For an excellent video on some of the issues associated with homelessness, please watch the video at this link:  https://youtu.be/VMjTKbUTaMs
 
 
