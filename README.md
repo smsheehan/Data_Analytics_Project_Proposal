@@ -9,7 +9,7 @@ The US government's Department of Housing and Urban Development (HUD) funds the 
 
 As a requirement for receiving funding, every COC must conduct a Point In Time (PIT) count.  One night every year a group of service providers and volunteers in each city surveys and counts the homeless individuals and families.  Additionally, COCs must provide a Housing Inventory Count (HIC) and maintain a Homeless Management Information System (HMIS) database.  While the HMIS database is not open to the public, HUD makes available the PIT and HIC data from across the country.  https://www.huduser.gov/portal/datasets/ahar/2020-ahar-part-1-pit-estimates-of-homelessness-in-the-us.html
 
-Nationwide, there is a disturbing trend in the percentage of unsheltered homeless.
+Nationwide, there is a disturbing rising trend in the percentage of unsheltered homeless.
 
 ![image](https://user-images.githubusercontent.com/90977689/152703171-8a150b3b-e5df-499b-b94a-bc41e8134147.png)
 
