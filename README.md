@@ -16,3 +16,5 @@ We also see this trend in Indianapolis, especially in 2021.  Here in Indianapoli
 
 ![image](https://user-images.githubusercontent.com/90977689/152703473-3930823d-0c9a-4ebd-871a-85a0d1556076.png)
 
+This proposal suggests that we use the HUD nationwide PIT and HIC datasets for each capitol city in the contiguous US states combined with other relevant city demographic (and potentially other city data such as budgetary allocations) to evaluate if machine learning models can identify factors which lead to better outcomes (lower homelessness as a percentage of city population).
+
