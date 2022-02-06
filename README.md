@@ -4,7 +4,8 @@
 
 The US government's Department of Housing and Urban Development (HUD) funds the continuum of care (COC) in major cities and select rural areas across the USA.
 
-![image](https://user-images.githubusercontent.com/90977689/152702925-169be26c-4780-406d-8015-a3cb733f78b6.png)
+![image](https://user-images.githubusercontent.com/90977689/152705248-1869b941-8bc6-4ac6-a999-4e86ff8537e6.png)
+
 
 As a requirement for receiving funding, every COC must conduct a Point In Time (PIT) count.  One night every year a group of service providers and volunteers in each city surveys and counts the homeless individuals and families.  Additionally, COCs must provide a Housing Inventory Count (HIC) and maintain a Homeless Management Information System (HMIS) database.  While the HMIS database is not open to the public, HUD makes available the PIT and HIC data from across the country.  https://www.huduser.gov/portal/datasets/ahar/2020-ahar-part-1-pit-estimates-of-homelessness-in-the-us.html
 
